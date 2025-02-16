@@ -20,3 +20,7 @@ Pandas:Used for data Manipulation.
 Matplotlib:Used for Data Visualization.![Screenshot 2025-02-12 224552](https://github.com/user-attachments/assets/8ca87295-566f-4930-b604-d54ad64b938e)
 
 ![Screenshot 2025-02-12 224608](https://github.com/user-attachments/assets/7ac23d30-7803-4006-8100-fb85a9bf8c65)
+
+https://github.com/user-attachments/assets/bd490596-492e-44e6-b66e-64231ea5baf2
+
+
